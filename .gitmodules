@@ -1,0 +1,6 @@
+[submodule "path/to/subfolder"]
+	path = path/to/subfolder
+	url = https://github.com/Vaibhaviii14/bitmaster
+[submodule "bitmaster"]
+	path = bitmaster
+	url = https://github.com/Vaibhaviii14/bitmaster
